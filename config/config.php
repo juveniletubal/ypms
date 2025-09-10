@@ -1,5 +1,5 @@
 <?php
-define('BASE_URL', 'http://localhost/ypms4/');
+define('BASE_URL', 'https://ypms.kesug.com/ypms/');
 define('ASSETS_URL', BASE_URL . '/assets');
 
 // Initialize managers
